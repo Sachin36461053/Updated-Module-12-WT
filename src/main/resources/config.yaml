@@ -8,3 +8,10 @@ sfdc:
   
 file:
   accountsDir: "/Users/sachinsajan/Downloads/MUFundamentals4.3_studentFiles_12may2020/resources"
+  
+db:
+  host: "mudb.learn.mulesoft.com"
+  port: "3306"
+  user: "mule"
+  password: "mule"
+  database: "training"
